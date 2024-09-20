@@ -255,7 +255,7 @@ public class HundirLaFlota {
 		Scanner entrada =new Scanner(System.in);
 		String coordenada; int letra; int orientacion; int tamaño; int numero;
 		boolean horizontal=false; int barcos=0; boolean []boolBarco=new boolean[5];
-		String []nombreBarco=new String [5]; int cont3=0; int pos=2; boolean fuera=false; int cont=0;
+		String []nombreBarco=new String [5]; int cont3=0; int pos=2; boolean fuera=false;
 		boolean existe=false;
 		while (barcos<5) {
 			System.out.println("Introduce coordenadas de incio de tu barco");
