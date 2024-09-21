@@ -19,34 +19,34 @@ Cada carpeta contiene proyectos de ejercicios individuales tipo teoría, además
 ### 📘 Primera Evaluación
 - **Temas**: Condicionales y bucles
 - **Proyectos destacados**: 
-  - Conversión de un número binario a decimal
-    🔗 PrimerCurso/PrimeraEva/BinarioAdecimal.java
-  - Dibujo de un cuadrado con asteriscos
-    🔗 PrimerCurso/PrimeraEva/CuadradoConAsteristos.java
+  - Conversión de un número binario a decimal  
+  🔗 PrimerCurso/PrimeraEva/BinarioAdecimal.java
+  - Dibujo de un cuadrado con asteriscos  
+  🔗 PrimerCurso/PrimeraEva/CuadradoConAsteristos.java
   - Proyecto final: Juego básico utilizando condicionales y bucles 🎮
-    Juego de ataque-defensa  mediante números
+    Juego de ataque-defensa  mediante números  
     🔗 PrimerCurso/PrimeraEva/ColiseoRomano.java
 
 ### 📗 Segunda Evaluación
 - **Temas**: Funciones y Arrays
 - **Proyectos destacados**:
-  - Acertar una clave generada de manera aleatoria
+  - Acertar una clave generada de manera aleatoria  
     🔗 PrimerCurso/SegundaEva/CamaraSecreta.java
-  - Implementación del tradicional juego Master Mind
+  - Implementación del tradicional juego Master Mind  
     🔗 PrimerCurso/SegundaEva/MasterMind.java
   - Proyecto final: Pequeña aplicación que aplica funciones y arrays 🧩
-    Implementación del famoso juego Hundir la flota
+    Implementación del famoso juego Hundir la flota  
     🔗 PrimerCurso/SegundaEva/HundirLaFlota.java
 
 ### 📙 Tercera Evaluación
 - **Temas**: ArrayLists, interfaces, herencia y polimorfismo
 - **Proyectos destacados**:
-  - Empresa de transporte de cajas con concepto de herencia
+  - Empresa de transporte de cajas con concepto de herencia  
     🔗 PrimerCurso/TerceraEva/cajas
-  - Proyecto instrumento donde se aplica el concepto de clases abstractas
+  - Proyecto instrumento donde se aplica el concepto de clases abstractas  
     🔗 PrimerCurso/TerceraEva/clasesAbstractas
-  - Proyecto donde se aplica el concepto de interfaces y manejo de ArrayList
-    🔗 PrimerCurso/TerceraEva/arrayList
+  - Proyecto donde se aplica el concepto de interfaces y manejo de ArrayList  
+    🔗PrimerCurso/TerceraEva/arrayList
 
 ## 🛠️ Instalación
 
