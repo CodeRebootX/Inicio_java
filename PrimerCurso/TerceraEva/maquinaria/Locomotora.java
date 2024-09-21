@@ -1,6 +1,6 @@
 package TerceraEva.maquinaria;
 
-import TerceraEva.Personal.Mecanico;
+import TerceraEva.personal.Mecanico;
 /*Asignamos características de una locomotora y le asignamos un mecánico del paquete <personal> */
 public class Locomotora {
     public String matricula;

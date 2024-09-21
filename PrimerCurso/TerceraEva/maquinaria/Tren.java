@@ -2,7 +2,7 @@ package TerceraEva.maquinaria;
 
 import java.util.Arrays;
 
-import TerceraEva.Personal.Maquinista;
+import TerceraEva.personal.Maquinista;
 // Un tren esta formado por su maquinista, locomotora, vagones.
 public class Tren {
     public Locomotora loc;

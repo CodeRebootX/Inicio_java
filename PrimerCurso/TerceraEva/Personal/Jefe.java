@@ -1,4 +1,4 @@
-package TerceraEva.Personal;
+package TerceraEva.personal;
 
 import java.util.Date;
 

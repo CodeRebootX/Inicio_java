@@ -1,4 +1,4 @@
-package TerceraEva.Personal;
+package TerceraEva.personal;
 
 import TerceraEva.maquinaria.Locomotora;
 import TerceraEva.maquinaria.Tren;

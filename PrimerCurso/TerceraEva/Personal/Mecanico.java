@@ -1,4 +1,4 @@
-package TerceraEva.Personal;
+package TerceraEva.personal;
 
 public class Mecanico {
     // Enum de especialidades fijas de los mecánicos
